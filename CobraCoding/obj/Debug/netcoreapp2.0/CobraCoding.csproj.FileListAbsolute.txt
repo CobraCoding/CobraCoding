@@ -1,0 +1,11 @@
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/bin/Debug/netcoreapp2.0/CobraCoding.deps.json
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/bin/Debug/netcoreapp2.0/CobraCoding.runtimeconfig.json
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/bin/Debug/netcoreapp2.0/CobraCoding.runtimeconfig.dev.json
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/bin/Debug/netcoreapp2.0/CobraCoding.dll
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/bin/Debug/netcoreapp2.0/CobraCoding.pdb
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/obj/Debug/netcoreapp2.0/CobraCoding.csprojResolveAssemblyReference.cache
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/obj/Debug/netcoreapp2.0/CobraCoding.csproj.CoreCompileInputs.cache
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/obj/Debug/netcoreapp2.0/CobraCoding.AssemblyInfoInputs.cache
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/obj/Debug/netcoreapp2.0/CobraCoding.AssemblyInfo.cs
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/obj/Debug/netcoreapp2.0/CobraCoding.dll
+/Users/thomasgreen/Documents/GitHub/CobraCoding/CobraCoding/CobraCoding/obj/Debug/netcoreapp2.0/CobraCoding.pdb
